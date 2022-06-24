@@ -1,1 +1,2 @@
-# rest-auth-go
+# Rest Auth GO
+
